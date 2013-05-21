@@ -21,6 +21,8 @@ public class MainActivity extends Activity {
 		System.out.println("Sæll Siggi");
 		System.out.println("Sælir báðir tveir");
 		System.out.println("HALLO");
+		System.out.println("HALLO2");
+		
 		return true;
 	}
 
