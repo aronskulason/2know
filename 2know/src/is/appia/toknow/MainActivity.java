@@ -19,6 +19,7 @@ public class MainActivity extends Activity {
 		getMenuInflater().inflate(R.menu.main, menu);
 		System.out.println("Halló Aron");
 		System.out.println("Sæll Siggi");
+		System.out.println("Sælir báðir tveir");
 		return true;
 	}
 
