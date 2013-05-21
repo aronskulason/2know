@@ -20,6 +20,7 @@ public class MainActivity extends Activity {
 		System.out.println("Halló Aron");
 		System.out.println("Sæll Siggi");
 		System.out.println("Sælir báðir tveir");
+		System.out.println("HALLO");
 		return true;
 	}
 
